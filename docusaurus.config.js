@@ -1,13 +1,13 @@
 module.exports = {
   title: 'ReproduceAi',
   tagline: 'Cooling Down AI Hypes!',
-  url: 'https://ReproduceAI.github.io',
+  url: 'https://reproduceai.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.svg',
-  organizationName: 'ReproduceAI', // Usually your GitHub org/user name.
-  projectName: 'ReproduceAI.github.io', // Usually your repo name.
+  organizationName: 'reproduceai', // Usually your GitHub org/user name.
+  projectName: 'reproduceai.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'ReproduceAI',
