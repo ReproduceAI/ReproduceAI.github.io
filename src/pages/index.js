@@ -60,8 +60,8 @@
            <div className={styles.getStarted}>
              <Link
                className="button button--outline button--primary button--lg"
-               to="https://forms.gle/FubPLyT6EUqpV7KcA">
-               Get Started
+               to="https://forms.gle/BJRhJvjbmjjt2FkL7">
+               Contact Us
              </Link>
            </div>
          </div>
