@@ -25,7 +25,8 @@ function Home() {
   return (
     <Layout
       permalink={"/"}
-      description={"Set up a modern web app by running one command."}
+      title={`Normalize and Democratize AI!`}
+      description={"Consultancy and professional service to help people in adopting the latest state of the art AI technologies."}
     >
       <div className={clsx("hero hero--dark", styles.heroBanner)}>
         <div className="container">
