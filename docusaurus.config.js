@@ -1,6 +1,6 @@
 module.exports = {
   title: 'ReproduceAi',
-  tagline: 'Cooling Down AI Hypes!',
+  tagline: 'Normalize and Democratize AI!',
   url: 'https://reproduceai.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,12 +16,12 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        // {
-        //   to: 'docs/',
-        //   activeBasePath: 'docs',
-        //   label: 'Docs',
-        //   position: 'left',
-        // },
+        {
+          to: 'about-us',
+          // activeBasePath: 'docs',
+          label: 'About Us',
+          position: 'right',
+        },
         // {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/orgs/ReproduceAI',
@@ -77,7 +77,7 @@ module.exports = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ReproduceAI, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ReproduceAI, Inc. Built with Docusaurus. Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>`,
     },
   },
   presets: [

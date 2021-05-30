@@ -1,0 +1,22 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 3rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 120px;
+  width: 120px;
+}
+
+.CompetenciesSection {
+  padding: 3rem 0;
+  background-color: #eeeeee;
+}
+
+html[data-theme="dark"] .CompetenciesSection {
+  background-color: #393e46;
+}
