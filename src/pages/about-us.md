@@ -47,6 +47,7 @@ We provide professional services to help customers in normalizing, democratizing
 
 - **EduTech.** ReproduceAI is a trusted partner of Aksaramaya Group to develop and deploy intelligent services for the education sector.
 
+- **Industrial Optimization.** ReproduceAI collaborate with ZebraX (Indika Group) to develop AI assets based on Reinforcement Learning.
 
 
 [<img src="/img/contact.svg" alt="drawing" width="200"/>](https://forms.gle/BJRhJvjbmjjt2FkL7)

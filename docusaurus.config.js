@@ -1,7 +1,7 @@
 module.exports = {
   title: 'ReproduceAi',
   tagline: 'Normalize and Democratize AI!',
-  url: 'https://reproduceai.github.io',
+  url: 'https://reproduce.ai',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
